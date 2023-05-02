@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/myanime/static/css/main.9a68043b.css",
+    "main.js": "/myanime/static/js/main.bba4e2a6.js",
+    "index.html": "/myanime/index.html",
+    "main.9a68043b.css.map": "/myanime/static/css/main.9a68043b.css.map",
+    "main.bba4e2a6.js.map": "/myanime/static/js/main.bba4e2a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a68043b.css",
+    "static/js/main.bba4e2a6.js"
+  ]
+}
