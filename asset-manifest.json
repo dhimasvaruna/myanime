@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myanime/static/css/main.9a68043b.css",
-    "main.js": "/myanime/static/js/main.0421b26f.js",
+    "main.js": "/myanime/static/js/main.c47a3b85.js",
     "index.html": "/myanime/index.html",
     "main.9a68043b.css.map": "/myanime/static/css/main.9a68043b.css.map",
-    "main.0421b26f.js.map": "/myanime/static/js/main.0421b26f.js.map"
+    "main.c47a3b85.js.map": "/myanime/static/js/main.c47a3b85.js.map"
   },
   "entrypoints": [
     "static/css/main.9a68043b.css",
-    "static/js/main.0421b26f.js"
+    "static/js/main.c47a3b85.js"
   ]
 }
